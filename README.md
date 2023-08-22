@@ -17,4 +17,4 @@ For any questions or feedback, please feel free to reach out via info@zeed-almel
 
 ----
 
-<iframe src="https://www.zeed-almelhem.com/image-manipulation" width="100%" height="auto"></iframe>
+<iframe src="https://www.zeed-almelhem.com/image-manipulation" width="100%" height="600px"></iframe>
