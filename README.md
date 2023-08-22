@@ -17,3 +17,10 @@ For any questions or feedback, please feel free to reach out via info@zeed-almel
 
 ----
 <iframe src="https://www.zeed-almelhem.com/image-manipulation" width="100%" height="auto"></iframe>
+from IPython.display import HTML
+
+# Replace 'your_html_url_here' with the actual URL of your HTML page
+html_url = 'your_html_url_here'
+
+# Embed the HTML content using IPython.display.HTML
+HTML(f'<iframe src="{html_url}" width="100%" height="600"></iframe>')
